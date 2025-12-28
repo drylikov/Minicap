@@ -33,4 +33,3 @@ Copy the contents of minicap's `examples/deploy.rb` as a jumping off point for y
  * Transparent support for templated files. No more jumping through hoops to get a `database.yml` file up to production
  * Built-in notification emails, ala cap-gun
 
-
