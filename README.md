@@ -34,4 +34,3 @@ Copy the contents of minicap's `examples/deploy.rb` as a jumping off point for y
  * Built-in notification emails, ala cap-gun
 
 
-
